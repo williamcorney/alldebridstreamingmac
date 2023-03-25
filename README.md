@@ -3,7 +3,7 @@
 
 There is a streaming plugin for Windows and Linux users on the Alldebrid site however no support for mac users
 
-I set about understanding the working of the code with the aim of producing a working version for personal use which I now also make available to the community.
+I set about understanding the working of the code made available for windows/linux users, with the view to producing a working MAC version of the code.
 
 Credits to Andy Portmen and Alldebrid for the framework of code necessary to make this work.
 
