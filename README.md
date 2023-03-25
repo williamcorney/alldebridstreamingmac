@@ -9,6 +9,10 @@ Credits to Andy Portmen and Alldebrid for the framework of code necessary to mak
 
 Also credit to Letcode's youtube channel where I learnt the basic of Native Messaging
 
+In my case the install script creates a com.alld.node folder in root of user folders with the files host.js, messaging.js , node.js and run.sh
+
+The original install script which i gleaned from the alldebrid site by changing windows.zip to mac.zip , seemed to be having problems creating the above folder and/copying the said files to it.
+
 
 ![image](https://user-images.githubusercontent.com/118494245/227746452-be0628a1-6828-405e-9f92-59e1c6a8ce00.png)
 
