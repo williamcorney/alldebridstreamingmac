@@ -7,6 +7,8 @@ I set about understanding the working of the code made available for windows/lin
 
 I have totally overhauled the original script installation process to use bash rather than javascript and I've bundled it all up in a nice gui installer
 
+You need to separately have node.js installed on your system.  You can download install from node.js website
+
 Credits to Andy Portmen and Alldebrid for the framework of code necessary to make this work.
 
 
